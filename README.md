@@ -3,12 +3,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-querubino/)](https://www.linkedin.com/in/joyce-querubino/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joycequerubino5@gmail.com)](mailto:joycequerubino5@gmail.com)
 
+<h1 align="center">
+    <img src = "https://ik.imagekit.io/joyceQuerubino/Vetor-git_nR0GUziOR.jpg">
+</h1>
+
 ## Olá 👋
 
 Meu nome é Joyce Querubino, estou cursando faculdade de Ciência da Computação e sou apaixonado por Desenvolvimento ❤
 
 - 💼 Trabalho como Designer Instrucional na **[Prima Software](https://www.sophia.com.br/)**
-- 💻 **Linguagens:** Html, CSS, Node.js, SQL, TypeScript e em busca de aprender muito mais!
+- 💻 **Linguagens:** Html, CSS, JavaScript, Node.js, SQL e em busca de aprender muito mais!
 - 🎨 **Ferramentas:** Visual Studio Code, GitHub, Photoshop, illustrator, Premiere, After Effects, Audition, Figma, Adobe XD
 - 📚 **Acadêmico:** Cursando faculdade e o Bootcamp LaunchBase da **[RocktSeat](https://rocketseat.com.br/)** 
 
