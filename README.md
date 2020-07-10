@@ -13,4 +13,4 @@ Meu nome é Joyce Querubino, estou cursando faculdade de Ciência da Computaçã
 - 📚 **Acadêmico:** Cursando faculdade e o Bootcamp LaunchBase da **[RocktSeat](https://rocketseat.com.br/)** 
 
 > :octocat:
----
+
