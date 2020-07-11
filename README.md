@@ -7,7 +7,7 @@
 
 ## Olá 👋
 
-Meu nome é Joyce Querubino e sou apaixonado por Desenvolvimento ❤
+Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento ❤
 
 - 💼 Trabalho como Designer Instrucional na **[Prima Software](https://www.sophia.com.br/)**
 - 💻 **Linguagens:** Html, CSS, JavaScript, Node.js, SQL e em busca de aprender muito mais!
