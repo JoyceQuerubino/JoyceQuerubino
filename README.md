@@ -8,7 +8,7 @@
   <img src ="https://ik.imagekit.io/joyceQuerubino/personagem_MLbVvybMb7.gif">
 </h1>
 
-<h1> Olá 👋 </h1>
+<h3> Olá 👋 </h3>
 Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento ❤
 
 - 💼 Trabalho como Designer Instrucional na **[Prima Software](https://www.sophia.com.br/)**
