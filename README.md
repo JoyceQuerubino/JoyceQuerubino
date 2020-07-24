@@ -4,8 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joycequerubino5@gmail.com)](mailto:joycequerubino5@gmail.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/joycequerucdd7)](https://www.behance.net/joycequerucdd7)
 
-<img src ="https://ik.imagekit.io/joyceQuerubino/personagem_MLbVvybMb7.gif">
-
+<h1 align="center">
+  <img src ="https://ik.imagekit.io/joyceQuerubino/personagem_MLbVvybMb7.gif">
+</h1>
 ## Olá 👋
 
 Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento ❤
