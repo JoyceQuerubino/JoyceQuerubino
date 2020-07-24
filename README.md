@@ -7,7 +7,7 @@
 <h1 align="center">
   <img src ="https://ik.imagekit.io/joyceQuerubino/personagem_MLbVvybMb7.gif">
 </h1>
-## Olá 👋
+# Olá 👋
 
 Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento ❤
 
