@@ -9,7 +9,7 @@
 </h1>
 
 <h3> Olá 👋 </h3>
-Meu nome é **Joyce Querubino** e sou apaixonada por Desenvolvimento e Motion Design ❤
+Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento e Motion Design ❤
 
 - 💼 Trabalho como Designer Instrucional na **[Prima Software](https://www.sophia.com.br/)**
 - 💻 **Linguagens:** Html, CSS, JavaScript, Node.js, SQL e em busca de aprender muito mais!
