@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-querubino/)](https://www.linkedin.com/in/joyce-querubino/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joycequerubino5@gmail.com)](mailto:joycequerubino5@gmail.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/joycequerucdd7)](https://www.behance.net/joycequerucdd7)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@joycequerubino5)](https://medium.com/@joycequerubino5)
 
 <h1 align="center">
   <img src ="https://ik.imagekit.io/joyceQuerubino/personagem_MLbVvybMb7.gif">
