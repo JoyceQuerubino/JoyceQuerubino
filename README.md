@@ -17,5 +17,5 @@ Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento e Motion Design
 - 🎨 **Ferramentas:** Visual Studio Code, GitHub, Photoshop, illustrator, Premiere, After Effects, Audition, Figma, Adobe XD
 - 📚 **Acadêmico:** Cursando faculdade de Ciência da Computação e o Bootcamp LaunchBase da **[RocktSeat](https://rocketseat.com.br/)** 
 
-> :octocat:
+> :octocat: Portfólio em desenvolvimento
 
