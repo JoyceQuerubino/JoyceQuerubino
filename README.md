@@ -18,7 +18,7 @@ Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento e Motion Design
 - 📚 **Acadêmico:** Cursando faculdade de Ciência da Computação e o Bootcamp LaunchBase da **[RocktSeat](https://rocketseat.com.br/)** 
 
 ---
-[ align="center" ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoyceQuerubino)](https://github.com/JoyceQuerubino/github-readme-stats)
+[               ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoyceQuerubino)](https://github.com/JoyceQuerubino/github-readme-stats)
 
 > :octocat:
 
