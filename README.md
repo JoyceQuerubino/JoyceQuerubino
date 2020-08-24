@@ -1,9 +1,8 @@
 # Joyce Querubino 👩‍💻
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JoyceQuerubino)](https://github.com/JoyceQuerubino)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joyce-querubino/)](https://www.linkedin.com/in/joyce-querubino/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joycequerubino5@gmail.com)](mailto:joycequerubino5@gmail.com)
-[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/joycequerucdd7)](https://www.behance.net/joycequerucdd7)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@joycequerubino5)](https://medium.com/@joycequerubino5)
+[![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/joycequerucdd7)](https://www.behance.net/joycequerucdd7)
 [![Codepen Badge](https://img.shields.io/badge/-codepen-cF5F5F5?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/joycequerubino/pens/showcase)](https://codepen.io/joycequerubino/pens/showcase)
 
 <h1 align="center">
