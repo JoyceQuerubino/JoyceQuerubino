@@ -19,7 +19,7 @@ Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento e Motion Design
 
 ---
 
-[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (Copie o link abaixo para utilizar o card GitHub Stats em seu perfil)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JoyceQuerubino)](https://github.com/JoyceQuerubino/github-readme-stats)
 
