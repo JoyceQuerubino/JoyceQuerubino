@@ -12,7 +12,7 @@
 <h3> Olá 👋 </h3>
 Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento e Motion Design ❤
 
-- 💼 Trabalho como Designer Instrucional na **[Prima Software](https://www.sophia.com.br/)**
+- 💼 Trabalho como Programadora Front-end na **[MLabs](https://www.mlabs.com.br/)**
 - 💻 **Linguagens:** Html, CSS, JavaScript, Node.js, SQL, React e em busca de aprender muito mais!
 - 🎨 **Ferramentas:** Visual Studio Code, GitHub, Photoshop, illustrator, Premiere, After Effects, Audition, Figma, Adobe XD
 - 📚 **Acadêmico:** Cursando faculdade de Ciência da Computação, Bootcamp LaunchBase da **[RocktSeat](https://rocketseat.com.br/)** e cursos da **[Origamid](https://www.origamid.com/)**
