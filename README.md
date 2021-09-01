@@ -12,7 +12,7 @@
 <h3> Olá 👋 </h3>
 Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento e Motion Design ❤
 
-- 💻 **Linguagens:** Html, CSS, SASS, JavaScript, SQL, React, React-Native e em busca de aprender muito mais!
+- 💻 **Linguagens:** Html, CSS, SASS, JavaScript, Typescript, SQL, React, React-Native e em busca de aprender muito mais!
 - 🎨 **Ferramentas:** Visual Studio Code, GitHub, Photoshop, illustrator, Premiere, After Effects, Audition, Figma, Adobe XD
 - 📚 **Acadêmico:** Cursando faculdade de Ciência da Computação, Bootcamp Ignite da **[RocktSeat](https://rocketseat.com.br/)** e cursos da **[Origamid](https://www.origamid.com/)**
 
