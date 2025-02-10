@@ -9,7 +9,7 @@
   <img src ="https://ik.imagekit.io/joyceQuerubino/personagem_MLbVvybMb7.gif">
 </h1>
 
-<h3> Olá 👋 </h3>
+<h3> Hiii 👋 </h3>
 I'm a developer with a degree in Computer Science and 5 years of experience in development with JavaScript, passionate about creating technological solutions that make people's lives easier. ❤
 <p>I have experience in projects involving: </p>
 
