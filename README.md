@@ -17,7 +17,7 @@ I'm a developer with a degree in Computer Science and 5 years of experience in d
 <p> 💻 <strong>Web:</strong> React, Typescript, HTML, CSS, Redux, Zustand, React-Query, Styled-Components, TailwindCSS, Shad-cn,  Slim,  Sass, Storybook, Jenkins, SEO and Jest. </p>  
 <p> 🗄️ <strong>Back-end:</strong> Node.js, Express, PostgreSQL, Prisma, Swagger, Docker and AWS (EC2, RDS, SES, S3 and route 53) </p>
 
-<p> <strong>Others: </strong>strong> BitRise, Mixpainel, Datadog, Sentry. </p> 
+<p> <strong>Others: </strong> BitRise, Mixpainel, Datadog, Sentry. </p> 
 <p> <strong>Using: </strong> SOLID and Clean Code. </p>
 
 ---
