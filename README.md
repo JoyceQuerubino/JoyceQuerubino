@@ -10,11 +10,14 @@
 </h1>
 
 <h3> Olá 👋 </h3>
-Meu nome é Joyce Querubino e sou apaixonada por Desenvolvimento e Motion Design ❤
+I'm a developer with a degree in Computer Science and 5 years of experience in development with JavaScript, passionate about creating technological solutions that make people's lives easier. ❤
+I have experience in projects involving: 
+📱 **Mobile:** React-Native, Redux, Zustand, React-Query, Styled-Components, Native-Base, Firebase, Expo, Storybook, Jest, PlayStore and AppleStore.  
+💻 **Web:** React, Typescript, HTML, CSS, Redux, Zustand, React-Query, Styled-Components, TailwindCSS, Shad-cn,  Slim,  Sass, Storybook, Jenkins, SEO and Jest.   
+🗄️ **Back-end:** Node.js, Express, PostgreSQL, Prisma, Swagger, Docker and AWS (EC2, RDS, SES, S3 and route 53)
 
-- 💻 **Linguagens:** Html, CSS, SASS, JavaScript, Typescript, SQL, React, React-Native e em busca de aprender muito mais!
-- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Photoshop, illustrator, Premiere, After Effects, Audition, Figma, Adobe XD
-- 📚 **Acadêmico:** Cursando faculdade de Ciência da Computação, Bootcamp Ignite da **[RocktSeat](https://rocketseat.com.br/)** e cursos da **[Origamid](https://www.origamid.com/)**
+**Others:** BitRise, Mixpainel, Datadog, Sentry. 
+**using:** SOLID and Clean Code. 
 
 ---
 
