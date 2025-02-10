@@ -11,13 +11,14 @@
 
 <h3> Olá 👋 </h3>
 I'm a developer with a degree in Computer Science and 5 years of experience in development with JavaScript, passionate about creating technological solutions that make people's lives easier. ❤
-I have experience in projects involving: 
-📱 **Mobile:** React-Native, Redux, Zustand, React-Query, Styled-Components, Native-Base, Firebase, Expo, Storybook, Jest, PlayStore and AppleStore.  
-💻 **Web:** React, Typescript, HTML, CSS, Redux, Zustand, React-Query, Styled-Components, TailwindCSS, Shad-cn,  Slim,  Sass, Storybook, Jenkins, SEO and Jest.   
-🗄️ **Back-end:** Node.js, Express, PostgreSQL, Prisma, Swagger, Docker and AWS (EC2, RDS, SES, S3 and route 53)
+<p>I have experience in projects involving: </p>
 
-**Others:** BitRise, Mixpainel, Datadog, Sentry. 
-**using:** SOLID and Clean Code. 
+<p> 📱 <strong>Mobile:</strong> React-Native, Redux, Zustand, React-Query, Styled-Components, Native-Base, Firebase, Expo, Storybook, Jest, PlayStore and AppleStore. </p>
+<p> 💻 <strong>Web:</strong> React, Typescript, HTML, CSS, Redux, Zustand, React-Query, Styled-Components, TailwindCSS, Shad-cn,  Slim,  Sass, Storybook, Jenkins, SEO and Jest. </p>  
+<p> 🗄️ <strong>Back-end:</strong> Node.js, Express, PostgreSQL, Prisma, Swagger, Docker and AWS (EC2, RDS, SES, S3 and route 53) </p>
+
+<p> <strong>Others: </strong>strong> BitRise, Mixpainel, Datadog, Sentry. </p> 
+<p> <strong>Using: </strong> SOLID and Clean Code. </p>
 
 ---
 
